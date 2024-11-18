@@ -1,9 +1,6 @@
-* {
-    display: flexbox;
-}
-
 body {
     max-width: 1440px;
+    margin: 10px auto;
 }
 
 main {
@@ -16,7 +13,7 @@ main {
 hr {
     border-color: black;
     margin-left: 10%;
-    width: 50%;
+    width: 75%;
 }
 
 p {
